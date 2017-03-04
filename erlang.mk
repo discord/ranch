@@ -296,8 +296,8 @@ pkg_backoff_name = backoff
 pkg_backoff_description = Simple exponential backoffs in Erlang
 pkg_backoff_homepage = https://github.com/ferd/backoff
 pkg_backoff_fetch = git
-pkg_backoff_repo = https://github.com/ferd/backoff
-pkg_backoff_commit = master
+pkg_backoff_repo = https://github.com/hammerandchisel/backoff
+pkg_backoff_commit = c096c86ba751fc53f74410e7ed6478dab4722234
 
 PACKAGES += barrel_tcp
 pkg_barrel_tcp_name = barrel_tcp
